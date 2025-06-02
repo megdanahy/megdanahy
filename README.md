@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!! 👋
 
 <!--
 **megdanahy/megdanahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm Meg, and I'm super new to GitHub!
+- 🌱 I'm currently just trying to get my bearings
+- 🐍 I will eventually be looking to collaborate on Python projects
+- ⚡ My goal is to keep my skills relatively sharp post-grad!!
